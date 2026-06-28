@@ -14,7 +14,7 @@
 
 **Plataforma completa de gestión de incidencias con motor IA que auto-asigna tickets al técnico más adecuado, optimizando tiempos de respuesta y cumplimiento de SLAs.**
 
-[Demo en vivo](https://demo.helpdesk-pro.pe) · [Documentación API](https://docs.helpdesk-pro.pe) · [Reportar bug](../../issues) · [Solicitar feature](../../issues)
+ · [Reportar bug](../../issues) · [Solicitar feature](../../issues)
 
 ---
 
